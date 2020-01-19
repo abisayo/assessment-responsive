@@ -1,0 +1,255 @@
+.carousel-caption h5 {
+	margin-top: -400px!important;
+	font-family: Waltograph;
+	font-size: 120px;
+}
+.bckg {
+	padding: 150px 50px 150px 50px;
+	background-size: cover;
+}
+.bckg h5 {
+	text-align: center;
+	font-family: Waltograph;
+	font-size: 120px;
+	color: #ffffff;
+}
+.bckg p {
+	font-family: Agency Fb;
+	font-size: 20px;
+	line-height: 40px;
+	letter-spacing: 10px;
+	text-align: center;
+	color: #ffffff
+}
+.bckg button {
+	width: 10%;
+}
+.carousel-caption p {
+	font-family: Agency Fb;
+	font-size: 25px;
+	line-height: 40px;
+	letter-spacing: 10px;
+}
+.carousel-caption button {
+	width: 10%;
+}
+.navbar-toggler {
+	border-color: #ffffff!important;
+}
+.navbar-toggler-icon {
+	color: #ffffff!important;
+}
+.menus {
+	margin-right: 50px;
+}
+.menus .nav-item {
+	margin-right: 30px;
+}
+.menus .nav-item a {
+	color: #ffffff;
+}
+.menus .nav-item .dropdown-menu {
+	background-color: #000000;
+}
+.menus .nav-item .dropdown-menu a:hover {
+	background-color: #000000;
+}
+.navbar-brand {
+	margin-left: 100px;
+	color: #ffffff!important;
+}
+.navbar {
+	background-color: rgba(0, 0, 0, 0.5)!important;
+	margin-top: 10px;
+}
+#full {
+	/*position:absolute;*/
+  	width:100%;
+  	top:0;
+}
+
+#second {
+	margin-top: 50px;
+}
+#second span {
+	float: left;
+	margin-right: 20px;
+	margin-bottom: 150px;
+}
+#second p {
+	font-size: 16px;
+	line-height: 30px;
+	color: gray;
+}
+#second .col-md-4 {
+	padding: 0px 15px 0px 15px;
+}
+
+.third {
+	background-color: #ff3333;
+	width: 100%;
+	padding: 50px 0px 50px 0px;
+}
+.third .col-md-6 .white {
+	background-color: #ffffff;
+	margin-left: -130px;
+	width: 90%;
+	margin-top: 45px;
+	padding: 20px 20px 20px 20px;
+}
+.third .col-md-6 .white h3 {
+	font-family: Waltograph;
+	font-size: 45px;
+	line-height: 45px;
+	margin-bottom: 20px;
+}
+.third .col-md-6 .white p {
+	font-size: 13px;
+	line-height: 25px;
+}
+@media (max-width: 576px) {
+	.third .col-md-6 .white {
+	background-color: #ffffff;
+	margin-left: 0px;
+	width: 100%;
+	margin-top: 0px;
+	padding: 20px 20px 20px 20px;
+}
+	.bckg button {
+	width: 50%;
+}
+.bckg p {
+	font-family: Agency Fb;
+	font-size: 20px;
+	line-height: 40px;
+	letter-spacing: 5px;
+	text-align: center;
+	color: #ffffff
+}
+
+}
+.four {
+	margin-top: 40px;
+	padding-bottom: 50px; 
+}
+.four h2 {
+	font-family: Waltograph;
+	font-size: 35px;
+	line-height: 45px;
+	text-align: center;
+	margin-bottom: 40px;
+}
+.four h4 {
+	font-size: 20px;
+	line-height: 35px;
+	text-align: center;
+}
+.four p {
+	font-size: 13px;
+	line-height: 25px;
+	text-align: center;
+}
+.four img {
+	margin-top: 20px;
+}
+.four #col1 {
+	border: 1px solid rgb(230, 230, 230);
+	border-left: none;
+	border-top: none;
+	padding-bottom: 20px 
+}
+.four #col2 {
+	border: 1px solid rgb(230, 230, 230);
+	border-left: none;
+	border-top: none;
+	padding-bottom: 20px 
+}
+.four #col3 {
+	border: 1px solid rgb(230, 230, 230);
+	border-left: none;
+	border-top: none;
+	border-right: none; 
+	padding: 0px 30px 20px 30px;
+}
+.four #col4 {
+	border: 1px solid rgb(230, 230, 230);
+	border-left: none;
+	border-bottom: none; 
+}
+.four #col5 {
+	border: 1px solid rgb(230, 230, 230);
+	border-left: none;
+	border-bottom: none; 
+}
+.four #col6 {
+	border: 1px solid rgb(230, 230, 230);
+	border-left: none;
+	border-bottom: none; 
+	border-right: none;
+	padding: 0px 30px 20px 30px;
+}
+
+.five {
+	background-color: rgb(240, 240, 240);
+	padding: 40px 50px 40px 50px;
+}
+.five h2 {
+	font-family: Waltograph;
+	font-size: 35px;
+	line-height: 45px;
+	text-align: center;
+	margin-bottom: 50px;
+}
+.five h4 {
+	font-size: 25px;
+	line-height: 35px;
+	margin-top: 20px;
+}
+.five p {
+	font-size: 13px;
+	line-height: 25px;
+}
+
+footer {
+	background-color: #333333;
+	padding-bottom: 20px;
+}
+footer .col-md-8 p {
+	font-size: 15px;
+	line-height: 25px;
+	color: #ffffff;
+	margin-top: 10px;
+}
+footer #right p {
+	font-size: 15px;
+	line-height: 25px;
+	color: #ffffff;
+	margin-top: 10px;
+}
+footer h4 {
+	color: #ffffff;
+	font-size: 16px;
+	line-height: 35px;
+}
+footer #flow p {
+	margin-top: 40px;
+	font-size: 14px;
+	line-height: 25px;
+}
+footer .col-md-3 p {
+	color: #ffffff;
+}
+footer .col-md-3 input {
+	width: 100%;
+	padding-left: 10px;
+}
+footer .col-md-3 button {
+	width: 50%;
+	margin-top: 20px;
+}
+footer h5 {
+	text-align: center;
+	color: gray;
+	font-size: 13px;
+	line-height: 25px;
+}
